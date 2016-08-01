@@ -1,0 +1,6 @@
+INSERT INTO userDB.user(login,password,fecha_vigencia)
+VALUES ('priya','$2a$04$CO93CT2ObgMiSnMAWwoBkeFObJlMYi/wzzOnPlsTP44r7qVq0Jln2', NOW());
+INSERT INTO userDB.user(login,password,fecha_vigencia)
+VALUES ('naveen','$2a$04$j3JpPUp6CTAe.kMWmdRNC.Wie58xDNPfcYz0DBJxWkucJ6ekJuiJm', NOW());
+
+--CURRENT_TIMESTAMP()
